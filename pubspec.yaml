@@ -1,5 +1,5 @@
 name: platform_data
-description: A new Flutter package project.
+description: Flutter specified platform data, A cleaner way to know users platform type.
 version: 0.0.2
 homepage: https://github.com/benyaminbeyzaie/platform_data
 
