@@ -13,14 +13,16 @@ void main() {
 ```
 
 ## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
+**After initializing** the package you can use it anywhere in the code in two ways:
 ```dart
-if (PlatformData.platformType == PlatformType.WEB) {
+if (PlatformData.platformType == PlatformType.web) {
     // build for web
-} else if (PlatformData.platformType == PlatformType.ANDROID) {
+} else if (PlatformData.platformType == PlatformType.android) {
     // build for android
+}
+```
+```dart
+if (isPlatformWeb) {
+    // build for web
 }
 ```
