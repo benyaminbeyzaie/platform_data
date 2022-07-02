@@ -1,4 +1,4 @@
-Flutter specifiec platform data, A cleaner way to know users platform type.
+Flutter specified platform data, A cleaner way to know users platform type.
 
 ## Getting started
 
