@@ -1,6 +1,6 @@
 name: platform_data
 description: Flutter specified platform data, A cleaner way to know users platform type.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/benyaminbeyzaie/platform_data
 
 environment:
